@@ -2,7 +2,7 @@
 
 # Infrastructure as a code - AWS
 
-This project implements a infrastructure using Terraform, Ansible, Docker, ans Jenkins, and it provides all resources into AWS Cloud.
+This project implements a infrastructure using Terraform, Ansible, Docker, and Jenkins, and it provides all resources into AWS Cloud.
 
 ![Infrastructure Schema AWS](https://github.com/mcosta21/infra-devops-aws/blob/main/.github/infra-schema-aws.png)
 
